@@ -1,0 +1,101 @@
+text,label
+Broken streetlight at Tech Park,INFRASTRUCTURE
+Damaged road signs on Oak Street,INFRASTRUCTURE
+Large pothole on Pine Road causing traffic disruptions,INFRASTRUCTURE
+Flooded street near Main Market after heavy rain,INFRASTRUCTURE
+Broken streetlight at City Hospital,INFRASTRUCTURE
+Cracked sidewalk tiles near Public Library,INFRASTRUCTURE
+Unfinished road construction blocking South Zone,INFRASTRUCTURE
+Flooded street near Bus Depot after heavy rain,INFRASTRUCTURE
+Graffiti covering traffic signs at Old Town,INFRASTRUCTURE
+Collapsed drainage system in East Zone,INFRASTRUCTURE
+Unfinished road construction blocking East Zone,INFRASTRUCTURE
+Damaged road signs on Pine Road,INFRASTRUCTURE
+Damaged road signs on Maple Avenue,INFRASTRUCTURE
+Missing guardrails on Willow Drive bridge,INFRASTRUCTURE
+Flooded street near Children's Park after heavy rain,INFRASTRUCTURE
+Graffiti covering traffic signs at Main Market,INFRASTRUCTURE
+Illegal speed bump installed on Cedar Lane,INFRASTRUCTURE
+Flooded street near Railway Station after heavy rain,INFRASTRUCTURE
+Missing guardrails on Pine Road bridge,INFRASTRUCTURE
+Missing guardrails on Cedar Lane bridge,INFRASTRUCTURE
+Collapsed drainage system in East Zone,INFRASTRUCTURE
+Large pothole on Oak Street causing traffic disruptions,INFRASTRUCTURE
+Broken streetlight at City Hospital,INFRASTRUCTURE
+Graffiti covering traffic signs at Tech Park,INFRASTRUCTURE
+Large pothole on Ash Terrace causing traffic disruptions,INFRASTRUCTURE
+Animal carcass left unattended on Elm Boulevard,SANITATION
+Sewage overflow in East Zone residential zone,SANITATION
+Medical waste dumped near Main Market,SANITATION
+Public toilets unusable at City Hall,SANITATION
+Animal carcass left unattended on Oak Street,SANITATION
+Medical waste dumped near Riverfront,SANITATION
+Medical waste dumped near Bus Depot,SANITATION
+Medical waste dumped near Tech Park,SANITATION
+Foul smell from uncollected waste near Main Market,SANITATION
+Stagnant water causing mosquito breeding in East Zone,SANITATION
+Stagnant water causing mosquito breeding in East Zone,SANITATION
+Foul smell from uncollected waste near Railway Station,SANITATION
+Trash cans overflowing at Sports Stadium,SANITATION
+Trash cans overflowing at City Hall,SANITATION
+Trash cans overflowing at Sunrise Mall,SANITATION
+Public toilets unusable at Community Center,SANITATION
+Public toilets unusable at Sunrise Mall,SANITATION
+Trash cans overflowing at City Hall,SANITATION
+Medical waste dumped near City Hospital,SANITATION
+Medical waste dumped near Government Colony,SANITATION
+Public toilets unusable at Public Library,SANITATION
+Foul smell from uncollected waste near Riverfront,SANITATION
+Industrial waste discharge into Green River,SANITATION
+Stagnant water causing mosquito breeding in East Zone,SANITATION
+Garbage pile-up near Public Library for 6 days,SANITATION
+Expired fire extinguishers in City Hospital,PUBLIC_SAFETY
+Expired fire extinguishers in Public Library,PUBLIC_SAFETY
+Unprotected construction site at West Zone,PUBLIC_SAFETY
+Stray dogs attacking pedestrians in West Zone,PUBLIC_SAFETY
+Aggressive street harassment near Bus Depot,PUBLIC_SAFETY
+Unlicensed street vendors blocking Tech Park,PUBLIC_SAFETY
+Unprotected construction site at West Zone,PUBLIC_SAFETY
+Unlicensed street vendors blocking Bus Depot,PUBLIC_SAFETY
+Unlicensed street vendors blocking City Hospital,PUBLIC_SAFETY
+Unlicensed street vendors blocking Central Square,PUBLIC_SAFETY
+Stray dogs attacking pedestrians in South Zone,PUBLIC_SAFETY
+Aggressive street harassment near Old Town,PUBLIC_SAFETY
+Malfunctioning traffic signal at Willow Drive & Cedar Lane,PUBLIC_SAFETY
+Aggressive street harassment near Government Colony,PUBLIC_SAFETY
+Unsafe electrical wiring near City Hospital,PUBLIC_SAFETY
+Unlicensed street vendors blocking Bus Depot,PUBLIC_SAFETY
+Stray dogs attacking pedestrians in South Zone,PUBLIC_SAFETY
+Unlicensed street vendors blocking Tech Park,PUBLIC_SAFETY
+Unlicensed street vendors blocking Central Square,PUBLIC_SAFETY
+Unlicensed street vendors blocking Government Colony,PUBLIC_SAFETY
+Stray dogs attacking pedestrians in East Zone,PUBLIC_SAFETY
+Fire hazard due to illegal parking at Central Park,PUBLIC_SAFETY
+Aggressive street harassment near City Hospital,PUBLIC_SAFETY
+Missing pedestrian crossing signs on Oak Street,PUBLIC_SAFETY
+Aggressive street harassment near Children's Park,PUBLIC_SAFETY
+Abandoned vehicles on Pine Road,OTHER
+Defaced historical monument at Riverfront,OTHER
+Abandoned vehicles on Willow Drive,OTHER
+Unauthorized advertising hoardings in North Zone,OTHER
+Unauthorized advertising hoardings in East Zone,OTHER
+Unauthorized religious processions blocking Oak Street,OTHER
+Vandalism of public property at Bus Depot,OTHER
+Unauthorized advertising hoardings in South Zone,OTHER
+Abandoned vehicles on Ash Terrace,OTHER
+Illegal tree cutting near Sunrise Mall,OTHER
+Defaced historical monument at Tech Park,OTHER
+Public park benches removed from City Hospital,OTHER
+Public park benches removed from Central Square,OTHER
+Unauthorized advertising hoardings in East Zone,OTHER
+Unauthorized religious processions blocking Willow Drive,OTHER
+Illegal tree cutting near City Hall,OTHER
+Misuse of disability parking spots at City Hall,OTHER
+Unauthorized advertising hoardings in South Zone,OTHER
+Noise pollution from late-night parties during night hours,OTHER
+Abandoned vehicles on Maple Avenue,OTHER
+Loudspeaker violations in East Zone,OTHER
+Illegal tree cutting near Sports Stadium,OTHER
+Noise pollution from construction during night hours,OTHER
+Defaced historical monument at Children's Park,OTHER
+Misuse of disability parking spots at Grand Hotel,OTHER
